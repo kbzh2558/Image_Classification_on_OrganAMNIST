@@ -87,8 +87,8 @@ Each image is resized to **28x28 pixels** (base experiments) and optionally **12
 
 | Model                | Test Accuracy | AUC   |
 |----------------------|---------------|-------|
-| MLP (2 layers, ReLU) | 72.49%        | 0.92  |
-| CNN (28x28)          | 79.20%        | 0.97  |
+| MLP (2 layers, ReLU) | 72.49%        |   -  |
+| CNN (28x28)          | 79.20%        | -  |
 | Modified CNN (128x128) | 88.70%      | 0.99  |
 | ResNet101 (fine-tuned) | 84.40%      | 0.985 |
 | Vision Transformer (ViT) | 94.50%   | 1.00  |
