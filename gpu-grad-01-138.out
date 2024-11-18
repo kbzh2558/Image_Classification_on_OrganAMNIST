@@ -1,0 +1,661 @@
+ERROR: Unable to locate a modulefile for 'cuda/12.3'
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=256, pool_kernel=2, pool_stride=2
+=================================================
+Config (64, 128, 256, 2, 2) - Epoch [1/70], Training Loss: 0.5405
+Config (64, 128, 256, 2, 2) - Epoch [1/70], Validation Loss: 0.6077
+Config (64, 128, 256, 2, 2) - Epoch [2/70], Training Loss: 0.3227
+Config (64, 128, 256, 2, 2) - Epoch [2/70], Validation Loss: 0.2002
+Config (64, 128, 256, 2, 2) - Epoch [3/70], Training Loss: 0.2368
+Config (64, 128, 256, 2, 2) - Epoch [3/70], Validation Loss: 0.1005
+Config (64, 128, 256, 2, 2) - Epoch [4/70], Training Loss: 0.1849
+Config (64, 128, 256, 2, 2) - Epoch [4/70], Validation Loss: 0.1204
+Config (64, 128, 256, 2, 2) - Epoch [5/70], Training Loss: 0.1473
+Config (64, 128, 256, 2, 2) - Epoch [5/70], Validation Loss: 0.1704
+Config (64, 128, 256, 2, 2) - Epoch [6/70], Training Loss: 0.1725
+Config (64, 128, 256, 2, 2) - Epoch [6/70], Validation Loss: 0.2070
+Config (64, 128, 256, 2, 2) - Early stopping after 6 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=256, pool_kernel=2, pool_stride=3
+=================================================
+Config (64, 128, 256, 2, 3) - Epoch [1/70], Training Loss: 0.5029
+Config (64, 128, 256, 2, 3) - Epoch [1/70], Validation Loss: 0.2182
+Config (64, 128, 256, 2, 3) - Epoch [2/70], Training Loss: 0.2346
+Config (64, 128, 256, 2, 3) - Epoch [2/70], Validation Loss: 0.1726
+Config (64, 128, 256, 2, 3) - Epoch [3/70], Training Loss: 0.1684
+Config (64, 128, 256, 2, 3) - Epoch [3/70], Validation Loss: 0.1346
+Config (64, 128, 256, 2, 3) - Epoch [4/70], Training Loss: 0.1418
+Config (64, 128, 256, 2, 3) - Epoch [4/70], Validation Loss: 0.1506
+Config (64, 128, 256, 2, 3) - Epoch [5/70], Training Loss: 0.1093
+Config (64, 128, 256, 2, 3) - Epoch [5/70], Validation Loss: 0.1135
+Config (64, 128, 256, 2, 3) - Epoch [6/70], Training Loss: 0.1048
+Config (64, 128, 256, 2, 3) - Epoch [6/70], Validation Loss: 0.1481
+Config (64, 128, 256, 2, 3) - Epoch [7/70], Training Loss: 0.0813
+Config (64, 128, 256, 2, 3) - Epoch [7/70], Validation Loss: 0.1296
+Config (64, 128, 256, 2, 3) - Epoch [8/70], Training Loss: 0.0715
+Config (64, 128, 256, 2, 3) - Epoch [8/70], Validation Loss: 0.1485
+Config (64, 128, 256, 2, 3) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=256, pool_kernel=3, pool_stride=2
+=================================================
+Config (64, 128, 256, 3, 2) - Epoch [1/70], Training Loss: 0.5450
+Config (64, 128, 256, 3, 2) - Epoch [1/70], Validation Loss: 0.2205
+Config (64, 128, 256, 3, 2) - Epoch [2/70], Training Loss: 0.2946
+Config (64, 128, 256, 3, 2) - Epoch [2/70], Validation Loss: 0.1410
+Config (64, 128, 256, 3, 2) - Epoch [3/70], Training Loss: 0.2315
+Config (64, 128, 256, 3, 2) - Epoch [3/70], Validation Loss: 0.1937
+Config (64, 128, 256, 3, 2) - Epoch [4/70], Training Loss: 0.2100
+Config (64, 128, 256, 3, 2) - Epoch [4/70], Validation Loss: 0.1114
+Config (64, 128, 256, 3, 2) - Epoch [5/70], Training Loss: 0.1521
+Config (64, 128, 256, 3, 2) - Epoch [5/70], Validation Loss: 0.1204
+Config (64, 128, 256, 3, 2) - Epoch [6/70], Training Loss: 0.1519
+Config (64, 128, 256, 3, 2) - Epoch [6/70], Validation Loss: 0.1206
+Config (64, 128, 256, 3, 2) - Epoch [7/70], Training Loss: 0.1127
+Config (64, 128, 256, 3, 2) - Epoch [7/70], Validation Loss: 0.1092
+Config (64, 128, 256, 3, 2) - Epoch [8/70], Training Loss: 0.1031
+Config (64, 128, 256, 3, 2) - Epoch [8/70], Validation Loss: 0.0979
+Config (64, 128, 256, 3, 2) - Epoch [9/70], Training Loss: 0.0922
+Config (64, 128, 256, 3, 2) - Epoch [9/70], Validation Loss: 0.0986
+Config (64, 128, 256, 3, 2) - Epoch [10/70], Training Loss: 0.0831
+Config (64, 128, 256, 3, 2) - Epoch [10/70], Validation Loss: 0.1187
+Config (64, 128, 256, 3, 2) - Epoch [11/70], Training Loss: 0.0746
+Config (64, 128, 256, 3, 2) - Epoch [11/70], Validation Loss: 0.0961
+Config (64, 128, 256, 3, 2) - Epoch [12/70], Training Loss: 0.0810
+Config (64, 128, 256, 3, 2) - Epoch [12/70], Validation Loss: 0.1177
+Config (64, 128, 256, 3, 2) - Epoch [13/70], Training Loss: 0.0664
+Config (64, 128, 256, 3, 2) - Epoch [13/70], Validation Loss: 0.1254
+Config (64, 128, 256, 3, 2) - Epoch [14/70], Training Loss: 0.0622
+Config (64, 128, 256, 3, 2) - Epoch [14/70], Validation Loss: 0.1509
+Config (64, 128, 256, 3, 2) - Early stopping after 14 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=256, pool_kernel=3, pool_stride=3
+=================================================
+Config (64, 128, 256, 3, 3) - Epoch [1/70], Training Loss: 0.4958
+Config (64, 128, 256, 3, 3) - Epoch [1/70], Validation Loss: 0.1829
+Config (64, 128, 256, 3, 3) - Epoch [2/70], Training Loss: 0.2545
+Config (64, 128, 256, 3, 3) - Epoch [2/70], Validation Loss: 0.1458
+Config (64, 128, 256, 3, 3) - Epoch [3/70], Training Loss: 0.1747
+Config (64, 128, 256, 3, 3) - Epoch [3/70], Validation Loss: 0.0935
+Config (64, 128, 256, 3, 3) - Epoch [4/70], Training Loss: 0.1380
+Config (64, 128, 256, 3, 3) - Epoch [4/70], Validation Loss: 0.1171
+Config (64, 128, 256, 3, 3) - Epoch [5/70], Training Loss: 0.1777
+Config (64, 128, 256, 3, 3) - Epoch [5/70], Validation Loss: 0.1414
+Config (64, 128, 256, 3, 3) - Epoch [6/70], Training Loss: 0.1572
+Config (64, 128, 256, 3, 3) - Epoch [6/70], Validation Loss: 0.1250
+Config (64, 128, 256, 3, 3) - Early stopping after 6 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=512, pool_kernel=2, pool_stride=2
+=================================================
+Config (64, 128, 512, 2, 2) - Epoch [1/70], Training Loss: 0.4968
+Config (64, 128, 512, 2, 2) - Epoch [1/70], Validation Loss: 0.1731
+Config (64, 128, 512, 2, 2) - Epoch [2/70], Training Loss: 0.2346
+Config (64, 128, 512, 2, 2) - Epoch [2/70], Validation Loss: 0.1128
+Config (64, 128, 512, 2, 2) - Epoch [3/70], Training Loss: 0.1537
+Config (64, 128, 512, 2, 2) - Epoch [3/70], Validation Loss: 0.0947
+Config (64, 128, 512, 2, 2) - Epoch [4/70], Training Loss: 0.1164
+Config (64, 128, 512, 2, 2) - Epoch [4/70], Validation Loss: 0.0861
+Config (64, 128, 512, 2, 2) - Epoch [5/70], Training Loss: 0.0957
+Config (64, 128, 512, 2, 2) - Epoch [5/70], Validation Loss: 0.1072
+Config (64, 128, 512, 2, 2) - Epoch [6/70], Training Loss: 0.0818
+Config (64, 128, 512, 2, 2) - Epoch [6/70], Validation Loss: 0.0784
+Config (64, 128, 512, 2, 2) - Epoch [7/70], Training Loss: 0.0663
+Config (64, 128, 512, 2, 2) - Epoch [7/70], Validation Loss: 0.0860
+Config (64, 128, 512, 2, 2) - Epoch [8/70], Training Loss: 0.0811
+Config (64, 128, 512, 2, 2) - Epoch [8/70], Validation Loss: 0.1009
+Config (64, 128, 512, 2, 2) - Epoch [9/70], Training Loss: 0.0504
+Config (64, 128, 512, 2, 2) - Epoch [9/70], Validation Loss: 0.1020
+Config (64, 128, 512, 2, 2) - Early stopping after 9 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=512, pool_kernel=2, pool_stride=3
+=================================================
+Config (64, 128, 512, 2, 3) - Epoch [1/70], Training Loss: 0.4546
+Config (64, 128, 512, 2, 3) - Epoch [1/70], Validation Loss: 0.1733
+Config (64, 128, 512, 2, 3) - Epoch [2/70], Training Loss: 0.2025
+Config (64, 128, 512, 2, 3) - Epoch [2/70], Validation Loss: 0.1304
+Config (64, 128, 512, 2, 3) - Epoch [3/70], Training Loss: 0.1381
+Config (64, 128, 512, 2, 3) - Epoch [3/70], Validation Loss: 0.1173
+Config (64, 128, 512, 2, 3) - Epoch [4/70], Training Loss: 0.1354
+Config (64, 128, 512, 2, 3) - Epoch [4/70], Validation Loss: 0.1130
+Config (64, 128, 512, 2, 3) - Epoch [5/70], Training Loss: 0.0902
+Config (64, 128, 512, 2, 3) - Epoch [5/70], Validation Loss: 0.1246
+Config (64, 128, 512, 2, 3) - Epoch [6/70], Training Loss: 0.0903
+Config (64, 128, 512, 2, 3) - Epoch [6/70], Validation Loss: 0.0965
+Config (64, 128, 512, 2, 3) - Epoch [7/70], Training Loss: 0.1071
+Config (64, 128, 512, 2, 3) - Epoch [7/70], Validation Loss: 0.1005
+Config (64, 128, 512, 2, 3) - Epoch [8/70], Training Loss: 0.0824
+Config (64, 128, 512, 2, 3) - Epoch [8/70], Validation Loss: 0.1153
+Config (64, 128, 512, 2, 3) - Epoch [9/70], Training Loss: 0.0597
+Config (64, 128, 512, 2, 3) - Epoch [9/70], Validation Loss: 0.1135
+Config (64, 128, 512, 2, 3) - Early stopping after 9 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=512, pool_kernel=3, pool_stride=2
+=================================================
+Config (64, 128, 512, 3, 2) - Epoch [1/70], Training Loss: 0.4558
+Config (64, 128, 512, 3, 2) - Epoch [1/70], Validation Loss: 0.1674
+Config (64, 128, 512, 3, 2) - Epoch [2/70], Training Loss: 0.2288
+Config (64, 128, 512, 3, 2) - Epoch [2/70], Validation Loss: 0.0975
+Config (64, 128, 512, 3, 2) - Epoch [3/70], Training Loss: 0.1640
+Config (64, 128, 512, 3, 2) - Epoch [3/70], Validation Loss: 0.3692
+Config (64, 128, 512, 3, 2) - Epoch [4/70], Training Loss: 0.1694
+Config (64, 128, 512, 3, 2) - Epoch [4/70], Validation Loss: 0.1141
+Config (64, 128, 512, 3, 2) - Epoch [5/70], Training Loss: 0.1372
+Config (64, 128, 512, 3, 2) - Epoch [5/70], Validation Loss: 0.1011
+Config (64, 128, 512, 3, 2) - Early stopping after 5 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=128, fc_neurons=512, pool_kernel=3, pool_stride=3
+=================================================
+Config (64, 128, 512, 3, 3) - Epoch [1/70], Training Loss: 0.4480
+Config (64, 128, 512, 3, 3) - Epoch [1/70], Validation Loss: 0.1532
+Config (64, 128, 512, 3, 3) - Epoch [2/70], Training Loss: 0.1915
+Config (64, 128, 512, 3, 3) - Epoch [2/70], Validation Loss: 0.1117
+Config (64, 128, 512, 3, 3) - Epoch [3/70], Training Loss: 0.1403
+Config (64, 128, 512, 3, 3) - Epoch [3/70], Validation Loss: 0.1271
+Config (64, 128, 512, 3, 3) - Epoch [4/70], Training Loss: 0.1496
+Config (64, 128, 512, 3, 3) - Epoch [4/70], Validation Loss: 0.1185
+Config (64, 128, 512, 3, 3) - Epoch [5/70], Training Loss: 0.0882
+Config (64, 128, 512, 3, 3) - Epoch [5/70], Validation Loss: 0.1115
+Config (64, 128, 512, 3, 3) - Epoch [6/70], Training Loss: 0.0874
+Config (64, 128, 512, 3, 3) - Epoch [6/70], Validation Loss: 0.1430
+Config (64, 128, 512, 3, 3) - Epoch [7/70], Training Loss: 0.1165
+Config (64, 128, 512, 3, 3) - Epoch [7/70], Validation Loss: 0.0867
+Config (64, 128, 512, 3, 3) - Epoch [8/70], Training Loss: 0.0613
+Config (64, 128, 512, 3, 3) - Epoch [8/70], Validation Loss: 0.1354
+Config (64, 128, 512, 3, 3) - Epoch [9/70], Training Loss: 0.0742
+Config (64, 128, 512, 3, 3) - Epoch [9/70], Validation Loss: 0.1089
+Config (64, 128, 512, 3, 3) - Epoch [10/70], Training Loss: 0.1075
+Config (64, 128, 512, 3, 3) - Epoch [10/70], Validation Loss: 0.1312
+Config (64, 128, 512, 3, 3) - Early stopping after 10 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=256, pool_kernel=2, pool_stride=2
+=================================================
+Config (64, 256, 256, 2, 2) - Epoch [1/70], Training Loss: 0.4465
+Config (64, 256, 256, 2, 2) - Epoch [1/70], Validation Loss: 0.1904
+Config (64, 256, 256, 2, 2) - Epoch [2/70], Training Loss: 0.2027
+Config (64, 256, 256, 2, 2) - Epoch [2/70], Validation Loss: 0.1670
+Config (64, 256, 256, 2, 2) - Epoch [3/70], Training Loss: 0.1552
+Config (64, 256, 256, 2, 2) - Epoch [3/70], Validation Loss: 0.1632
+Config (64, 256, 256, 2, 2) - Epoch [4/70], Training Loss: 0.1508
+Config (64, 256, 256, 2, 2) - Epoch [4/70], Validation Loss: 0.1759
+Config (64, 256, 256, 2, 2) - Epoch [5/70], Training Loss: 0.1470
+Config (64, 256, 256, 2, 2) - Epoch [5/70], Validation Loss: 0.1274
+Config (64, 256, 256, 2, 2) - Epoch [6/70], Training Loss: 0.0872
+Config (64, 256, 256, 2, 2) - Epoch [6/70], Validation Loss: 0.1437
+Config (64, 256, 256, 2, 2) - Epoch [7/70], Training Loss: 0.0689
+Config (64, 256, 256, 2, 2) - Epoch [7/70], Validation Loss: 0.1376
+Config (64, 256, 256, 2, 2) - Epoch [8/70], Training Loss: 0.0767
+Config (64, 256, 256, 2, 2) - Epoch [8/70], Validation Loss: 0.1579
+Config (64, 256, 256, 2, 2) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=256, pool_kernel=2, pool_stride=3
+=================================================
+Config (64, 256, 256, 2, 3) - Epoch [1/70], Training Loss: 0.4285
+Config (64, 256, 256, 2, 3) - Epoch [1/70], Validation Loss: 0.1793
+Config (64, 256, 256, 2, 3) - Epoch [2/70], Training Loss: 0.1969
+Config (64, 256, 256, 2, 3) - Epoch [2/70], Validation Loss: 0.1612
+Config (64, 256, 256, 2, 3) - Epoch [3/70], Training Loss: 0.1730
+Config (64, 256, 256, 2, 3) - Epoch [3/70], Validation Loss: 0.1376
+Config (64, 256, 256, 2, 3) - Epoch [4/70], Training Loss: 0.1103
+Config (64, 256, 256, 2, 3) - Epoch [4/70], Validation Loss: 0.1958
+Config (64, 256, 256, 2, 3) - Epoch [5/70], Training Loss: 0.1243
+Config (64, 256, 256, 2, 3) - Epoch [5/70], Validation Loss: 0.1235
+Config (64, 256, 256, 2, 3) - Epoch [6/70], Training Loss: 0.0842
+Config (64, 256, 256, 2, 3) - Epoch [6/70], Validation Loss: 0.1253
+Config (64, 256, 256, 2, 3) - Epoch [7/70], Training Loss: 0.1116
+Config (64, 256, 256, 2, 3) - Epoch [7/70], Validation Loss: 0.1511
+Config (64, 256, 256, 2, 3) - Epoch [8/70], Training Loss: 0.0579
+Config (64, 256, 256, 2, 3) - Epoch [8/70], Validation Loss: 0.1071
+Config (64, 256, 256, 2, 3) - Epoch [9/70], Training Loss: 0.0493
+Config (64, 256, 256, 2, 3) - Epoch [9/70], Validation Loss: 0.1223
+Config (64, 256, 256, 2, 3) - Epoch [10/70], Training Loss: 0.0693
+Config (64, 256, 256, 2, 3) - Epoch [10/70], Validation Loss: 0.1528
+Config (64, 256, 256, 2, 3) - Epoch [11/70], Training Loss: 0.0397
+Config (64, 256, 256, 2, 3) - Epoch [11/70], Validation Loss: 0.1338
+Config (64, 256, 256, 2, 3) - Early stopping after 11 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=256, pool_kernel=3, pool_stride=2
+=================================================
+Config (64, 256, 256, 3, 2) - Epoch [1/70], Training Loss: 0.4396
+Config (64, 256, 256, 3, 2) - Epoch [1/70], Validation Loss: 0.1483
+Config (64, 256, 256, 3, 2) - Epoch [2/70], Training Loss: 0.2308
+Config (64, 256, 256, 3, 2) - Epoch [2/70], Validation Loss: 0.1698
+Config (64, 256, 256, 3, 2) - Epoch [3/70], Training Loss: 0.2011
+Config (64, 256, 256, 3, 2) - Epoch [3/70], Validation Loss: 0.1778
+Config (64, 256, 256, 3, 2) - Epoch [4/70], Training Loss: 0.1690
+Config (64, 256, 256, 3, 2) - Epoch [4/70], Validation Loss: 0.1759
+Config (64, 256, 256, 3, 2) - Early stopping after 4 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=256, pool_kernel=3, pool_stride=3
+=================================================
+Config (64, 256, 256, 3, 3) - Epoch [1/70], Training Loss: 0.3968
+Config (64, 256, 256, 3, 3) - Epoch [1/70], Validation Loss: 0.1497
+Config (64, 256, 256, 3, 3) - Epoch [2/70], Training Loss: 0.2135
+Config (64, 256, 256, 3, 3) - Epoch [2/70], Validation Loss: 0.1136
+Config (64, 256, 256, 3, 3) - Epoch [3/70], Training Loss: 0.1379
+Config (64, 256, 256, 3, 3) - Epoch [3/70], Validation Loss: 0.1380
+Config (64, 256, 256, 3, 3) - Epoch [4/70], Training Loss: 0.1561
+Config (64, 256, 256, 3, 3) - Epoch [4/70], Validation Loss: 0.0995
+Config (64, 256, 256, 3, 3) - Epoch [5/70], Training Loss: 0.0871
+Config (64, 256, 256, 3, 3) - Epoch [5/70], Validation Loss: 0.0825
+Config (64, 256, 256, 3, 3) - Epoch [6/70], Training Loss: 0.0715
+Config (64, 256, 256, 3, 3) - Epoch [6/70], Validation Loss: 0.0925
+Config (64, 256, 256, 3, 3) - Epoch [7/70], Training Loss: 0.0584
+Config (64, 256, 256, 3, 3) - Epoch [7/70], Validation Loss: 0.1107
+Config (64, 256, 256, 3, 3) - Epoch [8/70], Training Loss: 0.0500
+Config (64, 256, 256, 3, 3) - Epoch [8/70], Validation Loss: 0.1010
+Config (64, 256, 256, 3, 3) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=512, pool_kernel=2, pool_stride=2
+=================================================
+Config (64, 256, 512, 2, 2) - Epoch [1/70], Training Loss: 0.4249
+Config (64, 256, 512, 2, 2) - Epoch [1/70], Validation Loss: 0.1469
+Config (64, 256, 512, 2, 2) - Epoch [2/70], Training Loss: 0.1736
+Config (64, 256, 512, 2, 2) - Epoch [2/70], Validation Loss: 0.1185
+Config (64, 256, 512, 2, 2) - Epoch [3/70], Training Loss: 0.1168
+Config (64, 256, 512, 2, 2) - Epoch [3/70], Validation Loss: 0.1177
+Config (64, 256, 512, 2, 2) - Epoch [4/70], Training Loss: 0.0971
+Config (64, 256, 512, 2, 2) - Epoch [4/70], Validation Loss: 0.0882
+Config (64, 256, 512, 2, 2) - Epoch [5/70], Training Loss: 0.1160
+Config (64, 256, 512, 2, 2) - Epoch [5/70], Validation Loss: 0.1006
+Config (64, 256, 512, 2, 2) - Epoch [6/70], Training Loss: 0.0600
+Config (64, 256, 512, 2, 2) - Epoch [6/70], Validation Loss: 0.1032
+Config (64, 256, 512, 2, 2) - Epoch [7/70], Training Loss: 0.0518
+Config (64, 256, 512, 2, 2) - Epoch [7/70], Validation Loss: 0.1451
+Config (64, 256, 512, 2, 2) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=512, pool_kernel=2, pool_stride=3
+=================================================
+Config (64, 256, 512, 2, 3) - Epoch [1/70], Training Loss: 0.4068
+Config (64, 256, 512, 2, 3) - Epoch [1/70], Validation Loss: 0.1565
+Config (64, 256, 512, 2, 3) - Epoch [2/70], Training Loss: 0.2025
+Config (64, 256, 512, 2, 3) - Epoch [2/70], Validation Loss: 0.1201
+Config (64, 256, 512, 2, 3) - Epoch [3/70], Training Loss: 0.1543
+Config (64, 256, 512, 2, 3) - Epoch [3/70], Validation Loss: 0.1335
+Config (64, 256, 512, 2, 3) - Epoch [4/70], Training Loss: 0.0941
+Config (64, 256, 512, 2, 3) - Epoch [4/70], Validation Loss: 0.1077
+Config (64, 256, 512, 2, 3) - Epoch [5/70], Training Loss: 0.0763
+Config (64, 256, 512, 2, 3) - Epoch [5/70], Validation Loss: 0.1814
+Config (64, 256, 512, 2, 3) - Epoch [6/70], Training Loss: 0.1096
+Config (64, 256, 512, 2, 3) - Epoch [6/70], Validation Loss: 0.1238
+Config (64, 256, 512, 2, 3) - Epoch [7/70], Training Loss: 0.0822
+Config (64, 256, 512, 2, 3) - Epoch [7/70], Validation Loss: 0.1247
+Config (64, 256, 512, 2, 3) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=512, pool_kernel=3, pool_stride=2
+=================================================
+Config (64, 256, 512, 3, 2) - Epoch [1/70], Training Loss: 0.3955
+Config (64, 256, 512, 3, 2) - Epoch [1/70], Validation Loss: 0.1228
+Config (64, 256, 512, 3, 2) - Epoch [2/70], Training Loss: 0.1774
+Config (64, 256, 512, 3, 2) - Epoch [2/70], Validation Loss: 0.1269
+Config (64, 256, 512, 3, 2) - Epoch [3/70], Training Loss: 0.1636
+Config (64, 256, 512, 3, 2) - Epoch [3/70], Validation Loss: 0.0937
+Config (64, 256, 512, 3, 2) - Epoch [4/70], Training Loss: 0.1240
+Config (64, 256, 512, 3, 2) - Epoch [4/70], Validation Loss: 0.0912
+Config (64, 256, 512, 3, 2) - Epoch [5/70], Training Loss: 0.0827
+Config (64, 256, 512, 3, 2) - Epoch [5/70], Validation Loss: 0.1184
+Config (64, 256, 512, 3, 2) - Epoch [6/70], Training Loss: 0.0645
+Config (64, 256, 512, 3, 2) - Epoch [6/70], Validation Loss: 0.0951
+Config (64, 256, 512, 3, 2) - Epoch [7/70], Training Loss: 0.0539
+Config (64, 256, 512, 3, 2) - Epoch [7/70], Validation Loss: 0.1133
+Config (64, 256, 512, 3, 2) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=64, conv2_channels=256, fc_neurons=512, pool_kernel=3, pool_stride=3
+=================================================
+Config (64, 256, 512, 3, 3) - Epoch [1/70], Training Loss: 0.3667
+Config (64, 256, 512, 3, 3) - Epoch [1/70], Validation Loss: 0.1134
+Config (64, 256, 512, 3, 3) - Epoch [2/70], Training Loss: 0.1689
+Config (64, 256, 512, 3, 3) - Epoch [2/70], Validation Loss: 0.0743
+Config (64, 256, 512, 3, 3) - Epoch [3/70], Training Loss: 0.1058
+Config (64, 256, 512, 3, 3) - Epoch [3/70], Validation Loss: 0.1301
+Config (64, 256, 512, 3, 3) - Epoch [4/70], Training Loss: 0.1319
+Config (64, 256, 512, 3, 3) - Epoch [4/70], Validation Loss: 0.0563
+Config (64, 256, 512, 3, 3) - Epoch [5/70], Training Loss: 0.0663
+Config (64, 256, 512, 3, 3) - Epoch [5/70], Validation Loss: 0.0724
+Config (64, 256, 512, 3, 3) - Epoch [6/70], Training Loss: 0.0788
+Config (64, 256, 512, 3, 3) - Epoch [6/70], Validation Loss: 0.1114
+Config (64, 256, 512, 3, 3) - Epoch [7/70], Training Loss: 0.0971
+Config (64, 256, 512, 3, 3) - Epoch [7/70], Validation Loss: 0.0862
+Config (64, 256, 512, 3, 3) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=256, pool_kernel=2, pool_stride=2
+=================================================
+Config (128, 128, 256, 2, 2) - Epoch [1/70], Training Loss: 0.5365
+Config (128, 128, 256, 2, 2) - Epoch [1/70], Validation Loss: 0.2069
+Config (128, 128, 256, 2, 2) - Epoch [2/70], Training Loss: 0.2617
+Config (128, 128, 256, 2, 2) - Epoch [2/70], Validation Loss: 0.1670
+Config (128, 128, 256, 2, 2) - Epoch [3/70], Training Loss: 0.1936
+Config (128, 128, 256, 2, 2) - Epoch [3/70], Validation Loss: 0.1822
+Config (128, 128, 256, 2, 2) - Epoch [4/70], Training Loss: 0.1596
+Config (128, 128, 256, 2, 2) - Epoch [4/70], Validation Loss: 0.1638
+Config (128, 128, 256, 2, 2) - Epoch [5/70], Training Loss: 0.1669
+Config (128, 128, 256, 2, 2) - Epoch [5/70], Validation Loss: 0.1673
+Config (128, 128, 256, 2, 2) - Epoch [6/70], Training Loss: 0.1263
+Config (128, 128, 256, 2, 2) - Epoch [6/70], Validation Loss: 0.1917
+Config (128, 128, 256, 2, 2) - Epoch [7/70], Training Loss: 0.1624
+Config (128, 128, 256, 2, 2) - Epoch [7/70], Validation Loss: 0.1730
+Config (128, 128, 256, 2, 2) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=256, pool_kernel=2, pool_stride=3
+=================================================
+Config (128, 128, 256, 2, 3) - Epoch [1/70], Training Loss: 0.5398
+Config (128, 128, 256, 2, 3) - Epoch [1/70], Validation Loss: 0.2126
+Config (128, 128, 256, 2, 3) - Epoch [2/70], Training Loss: 0.2519
+Config (128, 128, 256, 2, 3) - Epoch [2/70], Validation Loss: 0.2224
+Config (128, 128, 256, 2, 3) - Epoch [3/70], Training Loss: 0.2470
+Config (128, 128, 256, 2, 3) - Epoch [3/70], Validation Loss: 0.1466
+Config (128, 128, 256, 2, 3) - Epoch [4/70], Training Loss: 0.1590
+Config (128, 128, 256, 2, 3) - Epoch [4/70], Validation Loss: 0.1560
+Config (128, 128, 256, 2, 3) - Epoch [5/70], Training Loss: 0.1721
+Config (128, 128, 256, 2, 3) - Epoch [5/70], Validation Loss: 0.1666
+Config (128, 128, 256, 2, 3) - Epoch [6/70], Training Loss: 0.1601
+Config (128, 128, 256, 2, 3) - Epoch [6/70], Validation Loss: 0.1269
+Config (128, 128, 256, 2, 3) - Epoch [7/70], Training Loss: 0.1114
+Config (128, 128, 256, 2, 3) - Epoch [7/70], Validation Loss: 0.1299
+Config (128, 128, 256, 2, 3) - Epoch [8/70], Training Loss: 0.1129
+Config (128, 128, 256, 2, 3) - Epoch [8/70], Validation Loss: 0.1118
+Config (128, 128, 256, 2, 3) - Epoch [9/70], Training Loss: 0.0896
+Config (128, 128, 256, 2, 3) - Epoch [9/70], Validation Loss: 0.1287
+Config (128, 128, 256, 2, 3) - Epoch [10/70], Training Loss: 0.1184
+Config (128, 128, 256, 2, 3) - Epoch [10/70], Validation Loss: 0.1339
+Config (128, 128, 256, 2, 3) - Epoch [11/70], Training Loss: 0.0737
+Config (128, 128, 256, 2, 3) - Epoch [11/70], Validation Loss: 0.1556
+Config (128, 128, 256, 2, 3) - Early stopping after 11 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=256, pool_kernel=3, pool_stride=2
+=================================================
+Config (128, 128, 256, 3, 2) - Epoch [1/70], Training Loss: 0.5285
+Config (128, 128, 256, 3, 2) - Epoch [1/70], Validation Loss: 0.2609
+Config (128, 128, 256, 3, 2) - Epoch [2/70], Training Loss: 0.2695
+Config (128, 128, 256, 3, 2) - Epoch [2/70], Validation Loss: 0.1717
+Config (128, 128, 256, 3, 2) - Epoch [3/70], Training Loss: 0.1912
+Config (128, 128, 256, 3, 2) - Epoch [3/70], Validation Loss: 0.1415
+Config (128, 128, 256, 3, 2) - Epoch [4/70], Training Loss: 0.1542
+Config (128, 128, 256, 3, 2) - Epoch [4/70], Validation Loss: 0.1350
+Config (128, 128, 256, 3, 2) - Epoch [5/70], Training Loss: 0.1307
+Config (128, 128, 256, 3, 2) - Epoch [5/70], Validation Loss: 0.1469
+Config (128, 128, 256, 3, 2) - Epoch [6/70], Training Loss: 0.1510
+Config (128, 128, 256, 3, 2) - Epoch [6/70], Validation Loss: 0.1108
+Config (128, 128, 256, 3, 2) - Epoch [7/70], Training Loss: 0.1473
+Config (128, 128, 256, 3, 2) - Epoch [7/70], Validation Loss: 0.1182
+Config (128, 128, 256, 3, 2) - Epoch [8/70], Training Loss: 0.1304
+Config (128, 128, 256, 3, 2) - Epoch [8/70], Validation Loss: 0.1299
+Config (128, 128, 256, 3, 2) - Epoch [9/70], Training Loss: 0.0891
+Config (128, 128, 256, 3, 2) - Epoch [9/70], Validation Loss: 0.1393
+Config (128, 128, 256, 3, 2) - Early stopping after 9 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=256, pool_kernel=3, pool_stride=3
+=================================================
+Config (128, 128, 256, 3, 3) - Epoch [1/70], Training Loss: 0.4539
+Config (128, 128, 256, 3, 3) - Epoch [1/70], Validation Loss: 0.1707
+Config (128, 128, 256, 3, 3) - Epoch [2/70], Training Loss: 0.2579
+Config (128, 128, 256, 3, 3) - Epoch [2/70], Validation Loss: 0.1054
+Config (128, 128, 256, 3, 3) - Epoch [3/70], Training Loss: 0.2154
+Config (128, 128, 256, 3, 3) - Epoch [3/70], Validation Loss: 0.1551
+Config (128, 128, 256, 3, 3) - Epoch [4/70], Training Loss: 0.1934
+Config (128, 128, 256, 3, 3) - Epoch [4/70], Validation Loss: 0.1433
+Config (128, 128, 256, 3, 3) - Epoch [5/70], Training Loss: 0.1643
+Config (128, 128, 256, 3, 3) - Epoch [5/70], Validation Loss: 0.1017
+Config (128, 128, 256, 3, 3) - Epoch [6/70], Training Loss: 0.1131
+Config (128, 128, 256, 3, 3) - Epoch [6/70], Validation Loss: 0.0946
+Config (128, 128, 256, 3, 3) - Epoch [7/70], Training Loss: 0.1005
+Config (128, 128, 256, 3, 3) - Epoch [7/70], Validation Loss: 0.1548
+Config (128, 128, 256, 3, 3) - Epoch [8/70], Training Loss: 0.1269
+Config (128, 128, 256, 3, 3) - Epoch [8/70], Validation Loss: 0.1159
+Config (128, 128, 256, 3, 3) - Epoch [9/70], Training Loss: 0.0867
+Config (128, 128, 256, 3, 3) - Epoch [9/70], Validation Loss: 0.1215
+Config (128, 128, 256, 3, 3) - Early stopping after 9 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=512, pool_kernel=2, pool_stride=2
+=================================================
+Config (128, 128, 512, 2, 2) - Epoch [1/70], Training Loss: 0.4784
+Config (128, 128, 512, 2, 2) - Epoch [1/70], Validation Loss: 0.1530
+Config (128, 128, 512, 2, 2) - Epoch [2/70], Training Loss: 0.2146
+Config (128, 128, 512, 2, 2) - Epoch [2/70], Validation Loss: 0.1079
+Config (128, 128, 512, 2, 2) - Epoch [3/70], Training Loss: 0.1657
+Config (128, 128, 512, 2, 2) - Epoch [3/70], Validation Loss: 0.1362
+Config (128, 128, 512, 2, 2) - Epoch [4/70], Training Loss: 0.1481
+Config (128, 128, 512, 2, 2) - Epoch [4/70], Validation Loss: 0.1623
+Config (128, 128, 512, 2, 2) - Epoch [5/70], Training Loss: 0.1014
+Config (128, 128, 512, 2, 2) - Epoch [5/70], Validation Loss: 0.1136
+Config (128, 128, 512, 2, 2) - Early stopping after 5 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=512, pool_kernel=2, pool_stride=3
+=================================================
+Config (128, 128, 512, 2, 3) - Epoch [1/70], Training Loss: 0.4585
+Config (128, 128, 512, 2, 3) - Epoch [1/70], Validation Loss: 0.1643
+Config (128, 128, 512, 2, 3) - Epoch [2/70], Training Loss: 0.2075
+Config (128, 128, 512, 2, 3) - Epoch [2/70], Validation Loss: 0.1449
+Config (128, 128, 512, 2, 3) - Epoch [3/70], Training Loss: 0.1622
+Config (128, 128, 512, 2, 3) - Epoch [3/70], Validation Loss: 0.1506
+Config (128, 128, 512, 2, 3) - Epoch [4/70], Training Loss: 0.1332
+Config (128, 128, 512, 2, 3) - Epoch [4/70], Validation Loss: 0.1303
+Config (128, 128, 512, 2, 3) - Epoch [5/70], Training Loss: 0.0963
+Config (128, 128, 512, 2, 3) - Epoch [5/70], Validation Loss: 0.1645
+Config (128, 128, 512, 2, 3) - Epoch [6/70], Training Loss: 0.1072
+Config (128, 128, 512, 2, 3) - Epoch [6/70], Validation Loss: 0.1313
+Config (128, 128, 512, 2, 3) - Epoch [7/70], Training Loss: 0.0684
+Config (128, 128, 512, 2, 3) - Epoch [7/70], Validation Loss: 0.1337
+Config (128, 128, 512, 2, 3) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=512, pool_kernel=3, pool_stride=2
+=================================================
+Config (128, 128, 512, 3, 2) - Epoch [1/70], Training Loss: 0.4419
+Config (128, 128, 512, 3, 2) - Epoch [1/70], Validation Loss: 0.1793
+Config (128, 128, 512, 3, 2) - Epoch [2/70], Training Loss: 0.2015
+Config (128, 128, 512, 3, 2) - Epoch [2/70], Validation Loss: 0.1366
+Config (128, 128, 512, 3, 2) - Epoch [3/70], Training Loss: 0.1641
+Config (128, 128, 512, 3, 2) - Epoch [3/70], Validation Loss: 0.1426
+Config (128, 128, 512, 3, 2) - Epoch [4/70], Training Loss: 0.1507
+Config (128, 128, 512, 3, 2) - Epoch [4/70], Validation Loss: 0.1063
+Config (128, 128, 512, 3, 2) - Epoch [5/70], Training Loss: 0.0996
+Config (128, 128, 512, 3, 2) - Epoch [5/70], Validation Loss: 0.1086
+Config (128, 128, 512, 3, 2) - Epoch [6/70], Training Loss: 0.0840
+Config (128, 128, 512, 3, 2) - Epoch [6/70], Validation Loss: 0.1150
+Config (128, 128, 512, 3, 2) - Epoch [7/70], Training Loss: 0.0744
+Config (128, 128, 512, 3, 2) - Epoch [7/70], Validation Loss: 0.0969
+Config (128, 128, 512, 3, 2) - Epoch [8/70], Training Loss: 0.1194
+Config (128, 128, 512, 3, 2) - Epoch [8/70], Validation Loss: 0.1165
+Config (128, 128, 512, 3, 2) - Epoch [9/70], Training Loss: 0.0735
+Config (128, 128, 512, 3, 2) - Epoch [9/70], Validation Loss: 0.1021
+Config (128, 128, 512, 3, 2) - Epoch [10/70], Training Loss: 0.0632
+Config (128, 128, 512, 3, 2) - Epoch [10/70], Validation Loss: 0.0991
+Config (128, 128, 512, 3, 2) - Early stopping after 10 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=128, fc_neurons=512, pool_kernel=3, pool_stride=3
+=================================================
+Config (128, 128, 512, 3, 3) - Epoch [1/70], Training Loss: 0.4100
+Config (128, 128, 512, 3, 3) - Epoch [1/70], Validation Loss: 0.1495
+Config (128, 128, 512, 3, 3) - Epoch [2/70], Training Loss: 0.1764
+Config (128, 128, 512, 3, 3) - Epoch [2/70], Validation Loss: 0.1143
+Config (128, 128, 512, 3, 3) - Epoch [3/70], Training Loss: 0.1205
+Config (128, 128, 512, 3, 3) - Epoch [3/70], Validation Loss: 0.1116
+Config (128, 128, 512, 3, 3) - Epoch [4/70], Training Loss: 0.1146
+Config (128, 128, 512, 3, 3) - Epoch [4/70], Validation Loss: 0.1319
+Config (128, 128, 512, 3, 3) - Epoch [5/70], Training Loss: 0.1217
+Config (128, 128, 512, 3, 3) - Epoch [5/70], Validation Loss: 0.0920
+Config (128, 128, 512, 3, 3) - Epoch [6/70], Training Loss: 0.0732
+Config (128, 128, 512, 3, 3) - Epoch [6/70], Validation Loss: 0.1409
+Config (128, 128, 512, 3, 3) - Epoch [7/70], Training Loss: 0.0989
+Config (128, 128, 512, 3, 3) - Epoch [7/70], Validation Loss: 0.1087
+Config (128, 128, 512, 3, 3) - Epoch [8/70], Training Loss: 0.0708
+Config (128, 128, 512, 3, 3) - Epoch [8/70], Validation Loss: 0.0926
+Config (128, 128, 512, 3, 3) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=256, pool_kernel=2, pool_stride=2
+=================================================
+Config (128, 256, 256, 2, 2) - Epoch [1/70], Training Loss: 0.4406
+Config (128, 256, 256, 2, 2) - Epoch [1/70], Validation Loss: 0.1765
+Config (128, 256, 256, 2, 2) - Epoch [2/70], Training Loss: 0.2069
+Config (128, 256, 256, 2, 2) - Epoch [2/70], Validation Loss: 0.1624
+Config (128, 256, 256, 2, 2) - Epoch [3/70], Training Loss: 0.1424
+Config (128, 256, 256, 2, 2) - Epoch [3/70], Validation Loss: 0.1346
+Config (128, 256, 256, 2, 2) - Epoch [4/70], Training Loss: 0.1171
+Config (128, 256, 256, 2, 2) - Epoch [4/70], Validation Loss: 0.1541
+Config (128, 256, 256, 2, 2) - Epoch [5/70], Training Loss: 0.1324
+Config (128, 256, 256, 2, 2) - Epoch [5/70], Validation Loss: 0.1294
+Config (128, 256, 256, 2, 2) - Epoch [6/70], Training Loss: 0.0921
+Config (128, 256, 256, 2, 2) - Epoch [6/70], Validation Loss: 0.1833
+Config (128, 256, 256, 2, 2) - Epoch [7/70], Training Loss: 0.1197
+Config (128, 256, 256, 2, 2) - Epoch [7/70], Validation Loss: 0.1136
+Config (128, 256, 256, 2, 2) - Epoch [8/70], Training Loss: 0.1106
+Config (128, 256, 256, 2, 2) - Epoch [8/70], Validation Loss: 0.1304
+Config (128, 256, 256, 2, 2) - Epoch [9/70], Training Loss: 0.0610
+Config (128, 256, 256, 2, 2) - Epoch [9/70], Validation Loss: 0.1374
+Config (128, 256, 256, 2, 2) - Epoch [10/70], Training Loss: 0.0541
+Config (128, 256, 256, 2, 2) - Epoch [10/70], Validation Loss: 0.1246
+Config (128, 256, 256, 2, 2) - Early stopping after 10 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=256, pool_kernel=2, pool_stride=3
+=================================================
+Config (128, 256, 256, 2, 3) - Epoch [1/70], Training Loss: 0.4293
+Config (128, 256, 256, 2, 3) - Epoch [1/70], Validation Loss: 0.2228
+Config (128, 256, 256, 2, 3) - Epoch [2/70], Training Loss: 0.1881
+Config (128, 256, 256, 2, 3) - Epoch [2/70], Validation Loss: 0.2000
+Config (128, 256, 256, 2, 3) - Epoch [3/70], Training Loss: 0.1721
+Config (128, 256, 256, 2, 3) - Epoch [3/70], Validation Loss: 0.1379
+Config (128, 256, 256, 2, 3) - Epoch [4/70], Training Loss: 0.1155
+Config (128, 256, 256, 2, 3) - Epoch [4/70], Validation Loss: 0.2819
+Config (128, 256, 256, 2, 3) - Epoch [5/70], Training Loss: 0.1597
+Config (128, 256, 256, 2, 3) - Epoch [5/70], Validation Loss: 0.1854
+Config (128, 256, 256, 2, 3) - Epoch [6/70], Training Loss: 0.1362
+Config (128, 256, 256, 2, 3) - Epoch [6/70], Validation Loss: 0.1219
+Config (128, 256, 256, 2, 3) - Epoch [7/70], Training Loss: 0.0751
+Config (128, 256, 256, 2, 3) - Epoch [7/70], Validation Loss: 0.1205
+Config (128, 256, 256, 2, 3) - Epoch [8/70], Training Loss: 0.0766
+Config (128, 256, 256, 2, 3) - Epoch [8/70], Validation Loss: 0.1082
+Config (128, 256, 256, 2, 3) - Epoch [9/70], Training Loss: 0.0493
+Config (128, 256, 256, 2, 3) - Epoch [9/70], Validation Loss: 0.1008
+Config (128, 256, 256, 2, 3) - Epoch [10/70], Training Loss: 0.0419
+Config (128, 256, 256, 2, 3) - Epoch [10/70], Validation Loss: 0.1321
+Config (128, 256, 256, 2, 3) - Epoch [11/70], Training Loss: 0.0493
+Config (128, 256, 256, 2, 3) - Epoch [11/70], Validation Loss: 0.0920
+Config (128, 256, 256, 2, 3) - Epoch [12/70], Training Loss: 0.0826
+Config (128, 256, 256, 2, 3) - Epoch [12/70], Validation Loss: 0.1185
+Config (128, 256, 256, 2, 3) - Epoch [13/70], Training Loss: 0.0363
+Config (128, 256, 256, 2, 3) - Epoch [13/70], Validation Loss: 0.1169
+Config (128, 256, 256, 2, 3) - Epoch [14/70], Training Loss: 0.0281
+Config (128, 256, 256, 2, 3) - Epoch [14/70], Validation Loss: 0.1131
+Config (128, 256, 256, 2, 3) - Early stopping after 14 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=256, pool_kernel=3, pool_stride=2
+=================================================
+Config (128, 256, 256, 3, 2) - Epoch [1/70], Training Loss: 0.4348
+Config (128, 256, 256, 3, 2) - Epoch [1/70], Validation Loss: 0.1628
+Config (128, 256, 256, 3, 2) - Epoch [2/70], Training Loss: 0.2062
+Config (128, 256, 256, 3, 2) - Epoch [2/70], Validation Loss: 0.1663
+Config (128, 256, 256, 3, 2) - Epoch [3/70], Training Loss: 0.1692
+Config (128, 256, 256, 3, 2) - Epoch [3/70], Validation Loss: 0.1147
+Config (128, 256, 256, 3, 2) - Epoch [4/70], Training Loss: 0.1180
+Config (128, 256, 256, 3, 2) - Epoch [4/70], Validation Loss: 0.1345
+Config (128, 256, 256, 3, 2) - Epoch [5/70], Training Loss: 0.1084
+Config (128, 256, 256, 3, 2) - Epoch [5/70], Validation Loss: 0.1063
+Config (128, 256, 256, 3, 2) - Epoch [6/70], Training Loss: 0.0795
+Config (128, 256, 256, 3, 2) - Epoch [6/70], Validation Loss: 0.1069
+Config (128, 256, 256, 3, 2) - Epoch [7/70], Training Loss: 0.0683
+Config (128, 256, 256, 3, 2) - Epoch [7/70], Validation Loss: 0.1415
+Config (128, 256, 256, 3, 2) - Epoch [8/70], Training Loss: 0.0810
+Config (128, 256, 256, 3, 2) - Epoch [8/70], Validation Loss: 0.1453
+Config (128, 256, 256, 3, 2) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=256, pool_kernel=3, pool_stride=3
+=================================================
+Config (128, 256, 256, 3, 3) - Epoch [1/70], Training Loss: 0.4017
+Config (128, 256, 256, 3, 3) - Epoch [1/70], Validation Loss: 0.1317
+Config (128, 256, 256, 3, 3) - Epoch [2/70], Training Loss: 0.2063
+Config (128, 256, 256, 3, 3) - Epoch [2/70], Validation Loss: 0.1053
+Config (128, 256, 256, 3, 3) - Epoch [3/70], Training Loss: 0.1227
+Config (128, 256, 256, 3, 3) - Epoch [3/70], Validation Loss: 0.1013
+Config (128, 256, 256, 3, 3) - Epoch [4/70], Training Loss: 0.0944
+Config (128, 256, 256, 3, 3) - Epoch [4/70], Validation Loss: 0.0912
+Config (128, 256, 256, 3, 3) - Epoch [5/70], Training Loss: 0.0744
+Config (128, 256, 256, 3, 3) - Epoch [5/70], Validation Loss: 0.0938
+Config (128, 256, 256, 3, 3) - Epoch [6/70], Training Loss: 0.0607
+Config (128, 256, 256, 3, 3) - Epoch [6/70], Validation Loss: 0.1041
+Config (128, 256, 256, 3, 3) - Epoch [7/70], Training Loss: 0.0528
+Config (128, 256, 256, 3, 3) - Epoch [7/70], Validation Loss: 0.1677
+Config (128, 256, 256, 3, 3) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=512, pool_kernel=2, pool_stride=2
+=================================================
+Config (128, 256, 512, 2, 2) - Epoch [1/70], Training Loss: 0.4273
+Config (128, 256, 512, 2, 2) - Epoch [1/70], Validation Loss: 0.1779
+Config (128, 256, 512, 2, 2) - Epoch [2/70], Training Loss: 0.1908
+Config (128, 256, 512, 2, 2) - Epoch [2/70], Validation Loss: 0.1342
+Config (128, 256, 512, 2, 2) - Epoch [3/70], Training Loss: 0.1213
+Config (128, 256, 512, 2, 2) - Epoch [3/70], Validation Loss: 0.1290
+Config (128, 256, 512, 2, 2) - Epoch [4/70], Training Loss: 0.1265
+Config (128, 256, 512, 2, 2) - Epoch [4/70], Validation Loss: 0.4255
+Config (128, 256, 512, 2, 2) - Epoch [5/70], Training Loss: 0.1438
+Config (128, 256, 512, 2, 2) - Epoch [5/70], Validation Loss: 0.0985
+Config (128, 256, 512, 2, 2) - Epoch [6/70], Training Loss: 0.0697
+Config (128, 256, 512, 2, 2) - Epoch [6/70], Validation Loss: 0.1015
+Config (128, 256, 512, 2, 2) - Epoch [7/70], Training Loss: 0.0561
+Config (128, 256, 512, 2, 2) - Epoch [7/70], Validation Loss: 0.0998
+Config (128, 256, 512, 2, 2) - Epoch [8/70], Training Loss: 0.0563
+Config (128, 256, 512, 2, 2) - Epoch [8/70], Validation Loss: 0.1294
+Config (128, 256, 512, 2, 2) - Early stopping after 8 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=512, pool_kernel=2, pool_stride=3
+=================================================
+Config (128, 256, 512, 2, 3) - Epoch [1/70], Training Loss: 0.3867
+Config (128, 256, 512, 2, 3) - Epoch [1/70], Validation Loss: 0.1491
+Config (128, 256, 512, 2, 3) - Epoch [2/70], Training Loss: 0.1695
+Config (128, 256, 512, 2, 3) - Epoch [2/70], Validation Loss: 0.1143
+Config (128, 256, 512, 2, 3) - Epoch [3/70], Training Loss: 0.1107
+Config (128, 256, 512, 2, 3) - Epoch [3/70], Validation Loss: 0.1484
+Config (128, 256, 512, 2, 3) - Epoch [4/70], Training Loss: 0.1238
+Config (128, 256, 512, 2, 3) - Epoch [4/70], Validation Loss: 0.1074
+Config (128, 256, 512, 2, 3) - Epoch [5/70], Training Loss: 0.0673
+Config (128, 256, 512, 2, 3) - Epoch [5/70], Validation Loss: 0.1166
+Config (128, 256, 512, 2, 3) - Epoch [6/70], Training Loss: 0.0744
+Config (128, 256, 512, 2, 3) - Epoch [6/70], Validation Loss: 0.1600
+Config (128, 256, 512, 2, 3) - Epoch [7/70], Training Loss: 0.0448
+Config (128, 256, 512, 2, 3) - Epoch [7/70], Validation Loss: 0.0855
+Config (128, 256, 512, 2, 3) - Epoch [8/70], Training Loss: 0.0608
+Config (128, 256, 512, 2, 3) - Epoch [8/70], Validation Loss: 0.1288
+Config (128, 256, 512, 2, 3) - Epoch [9/70], Training Loss: 0.0744
+Config (128, 256, 512, 2, 3) - Epoch [9/70], Validation Loss: 0.1218
+Config (128, 256, 512, 2, 3) - Epoch [10/70], Training Loss: 0.0315
+Config (128, 256, 512, 2, 3) - Epoch [10/70], Validation Loss: 0.1037
+Config (128, 256, 512, 2, 3) - Early stopping after 10 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=512, pool_kernel=3, pool_stride=2
+=================================================
+Config (128, 256, 512, 3, 2) - Epoch [1/70], Training Loss: 0.3942
+Config (128, 256, 512, 3, 2) - Epoch [1/70], Validation Loss: 0.1437
+Config (128, 256, 512, 3, 2) - Epoch [2/70], Training Loss: 0.2094
+Config (128, 256, 512, 3, 2) - Epoch [2/70], Validation Loss: 0.1575
+Config (128, 256, 512, 3, 2) - Epoch [3/70], Training Loss: 0.1692
+Config (128, 256, 512, 3, 2) - Epoch [3/70], Validation Loss: 0.0843
+Config (128, 256, 512, 3, 2) - Epoch [4/70], Training Loss: 0.1092
+Config (128, 256, 512, 3, 2) - Epoch [4/70], Validation Loss: 0.0836
+Config (128, 256, 512, 3, 2) - Epoch [5/70], Training Loss: 0.0816
+Config (128, 256, 512, 3, 2) - Epoch [5/70], Validation Loss: 0.1006
+Config (128, 256, 512, 3, 2) - Epoch [6/70], Training Loss: 0.0689
+Config (128, 256, 512, 3, 2) - Epoch [6/70], Validation Loss: 0.1069
+Config (128, 256, 512, 3, 2) - Epoch [7/70], Training Loss: 0.0603
+Config (128, 256, 512, 3, 2) - Epoch [7/70], Validation Loss: 0.0925
+Config (128, 256, 512, 3, 2) - Early stopping after 7 epochs.
+=================================================
+Training with params: conv1_channels=128, conv2_channels=256, fc_neurons=512, pool_kernel=3, pool_stride=3
+=================================================
+Config (128, 256, 512, 3, 3) - Epoch [1/70], Training Loss: 0.3659
+Config (128, 256, 512, 3, 3) - Epoch [1/70], Validation Loss: 0.1433
+Config (128, 256, 512, 3, 3) - Epoch [2/70], Training Loss: 0.1542
+Config (128, 256, 512, 3, 3) - Epoch [2/70], Validation Loss: 0.0970
+Config (128, 256, 512, 3, 3) - Epoch [3/70], Training Loss: 0.0993
+Config (128, 256, 512, 3, 3) - Epoch [3/70], Validation Loss: 0.1029
+Config (128, 256, 512, 3, 3) - Epoch [4/70], Training Loss: 0.0741
+Config (128, 256, 512, 3, 3) - Epoch [4/70], Validation Loss: 0.1023
+Config (128, 256, 512, 3, 3) - Epoch [5/70], Training Loss: 0.0687
+Config (128, 256, 512, 3, 3) - Epoch [5/70], Validation Loss: 0.0946
+Config (128, 256, 512, 3, 3) - Epoch [6/70], Training Loss: 0.0441
+Config (128, 256, 512, 3, 3) - Epoch [6/70], Validation Loss: 0.0981
+Config (128, 256, 512, 3, 3) - Epoch [7/70], Training Loss: 0.0453
+Config (128, 256, 512, 3, 3) - Epoch [7/70], Validation Loss: 0.0960
+Config (128, 256, 512, 3, 3) - Epoch [8/70], Training Loss: 0.0863
+Config (128, 256, 512, 3, 3) - Epoch [8/70], Validation Loss: 0.1390
+Config (128, 256, 512, 3, 3) - Early stopping after 8 epochs.
+=================================================
+Best Model Parameters: (64, 256, 512, 3, 3) with Validation Loss: 0.0563

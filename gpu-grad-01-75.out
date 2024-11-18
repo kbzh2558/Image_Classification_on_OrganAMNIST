@@ -1,0 +1,56 @@
+ERROR: Unable to locate a modulefile for 'cuda/12.6'
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist.npz
+Epoch [1/70], Training Loss: 1.4860
+Epoch [1/70], Validation Loss: 0.8780
+Validation loss improved; model saved.
+Epoch [2/70], Training Loss: 0.9543
+Epoch [2/70], Validation Loss: 0.6001
+Validation loss improved; model saved.
+Epoch [3/70], Training Loss: 0.7613
+Epoch [3/70], Validation Loss: 0.4885
+Validation loss improved; model saved.
+Epoch [4/70], Training Loss: 0.6545
+Epoch [4/70], Validation Loss: 0.4200
+Validation loss improved; model saved.
+Epoch [5/70], Training Loss: 0.5810
+Epoch [5/70], Validation Loss: 0.3616
+Validation loss improved; model saved.
+Epoch [6/70], Training Loss: 0.5227
+Epoch [6/70], Validation Loss: 0.3317
+Validation loss improved; model saved.
+Epoch [7/70], Training Loss: 0.4814
+Epoch [7/70], Validation Loss: 0.3155
+Validation loss improved; model saved.
+Epoch [8/70], Training Loss: 0.4539
+Epoch [8/70], Validation Loss: 0.2969
+Validation loss improved; model saved.
+Epoch [9/70], Training Loss: 0.4201
+Epoch [9/70], Validation Loss: 0.2946
+Validation loss improved; model saved.
+Epoch [10/70], Training Loss: 0.3939
+Epoch [10/70], Validation Loss: 0.2843
+Validation loss improved; model saved.
+Epoch [11/70], Training Loss: 0.3694
+Epoch [11/70], Validation Loss: 0.2650
+Validation loss improved; model saved.
+Epoch [12/70], Training Loss: 0.3533
+Epoch [12/70], Validation Loss: 0.2704
+No improvement in validation loss for 1 epochs.
+Epoch [13/70], Training Loss: 0.3294
+Epoch [13/70], Validation Loss: 0.2446
+Validation loss improved; model saved.
+Epoch [14/70], Training Loss: 0.3281
+Epoch [14/70], Validation Loss: 0.2287
+Validation loss improved; model saved.
+Epoch [15/70], Training Loss: 0.3282
+Epoch [15/70], Validation Loss: 0.2418
+No improvement in validation loss for 1 epochs.
+Epoch [16/70], Training Loss: 0.3043
+Epoch [16/70], Validation Loss: 0.2426
+No improvement in validation loss for 2 epochs.
+Epoch [17/70], Training Loss: 0.2811
+Epoch [17/70], Validation Loss: 0.2315
+No improvement in validation loss for 3 epochs.
+Early stopping triggered after 17 epochs.

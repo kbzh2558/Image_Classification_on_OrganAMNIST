@@ -1,0 +1,85 @@
+ERROR: Unable to locate a modulefile for 'cuda/12.3'
+/home/2024/kzhang69/.conda/envs/kbzh_env/lib/python3.12/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/2024/kzhang69/.conda/envs/kbzh_env/lib/python3.12/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet101_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet101_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Using downloaded and verified file: /home/2024/kzhang69/.medmnist/organamnist_128.npz
+Training with FC layers configuration: [512, 256, 256, 128, 64]
+=================================================
+Config ([512, 256, 256, 128, 64],) - Epoch [1/70], Training Loss: 0.6220
+Config ([512, 256, 256, 128, 64],) - Epoch [1/70], Validation Loss: 0.6310
+Config ([512, 256, 256, 128, 64],) - Epoch [2/70], Training Loss: 0.2997
+Config ([512, 256, 256, 128, 64],) - Epoch [2/70], Validation Loss: 0.2137
+Config ([512, 256, 256, 128, 64],) - Epoch [3/70], Training Loss: 0.2302
+Config ([512, 256, 256, 128, 64],) - Epoch [3/70], Validation Loss: 0.3336
+Config ([512, 256, 256, 128, 64],) - Epoch [4/70], Training Loss: 0.2102
+Config ([512, 256, 256, 128, 64],) - Epoch [4/70], Validation Loss: 0.2661
+Config ([512, 256, 256, 128, 64],) - Epoch [5/70], Training Loss: 0.1735
+Config ([512, 256, 256, 128, 64],) - Epoch [5/70], Validation Loss: 0.2791
+Config ([512, 256, 256, 128, 64],) - Early stopping after 5 epochs.
+=================================================
+Training with FC layers configuration: [4096, 4096, 1000, 1000]
+=================================================
+Config ([4096, 4096, 1000, 1000],) - Epoch [1/70], Training Loss: 0.5733
+Config ([4096, 4096, 1000, 1000],) - Epoch [1/70], Validation Loss: 0.4174
+Config ([4096, 4096, 1000, 1000],) - Epoch [2/70], Training Loss: 0.3106
+Config ([4096, 4096, 1000, 1000],) - Epoch [2/70], Validation Loss: 0.2735
+Config ([4096, 4096, 1000, 1000],) - Epoch [3/70], Training Loss: 0.2595
+Config ([4096, 4096, 1000, 1000],) - Epoch [3/70], Validation Loss: 0.2142
+Config ([4096, 4096, 1000, 1000],) - Epoch [4/70], Training Loss: 0.2263
+Config ([4096, 4096, 1000, 1000],) - Epoch [4/70], Validation Loss: 0.2493
+Config ([4096, 4096, 1000, 1000],) - Epoch [5/70], Training Loss: 0.2110
+Config ([4096, 4096, 1000, 1000],) - Epoch [5/70], Validation Loss: 0.2859
+Config ([4096, 4096, 1000, 1000],) - Epoch [6/70], Training Loss: 0.2123
+Config ([4096, 4096, 1000, 1000],) - Epoch [6/70], Validation Loss: 0.2058
+Config ([4096, 4096, 1000, 1000],) - Epoch [7/70], Training Loss: 0.1729
+Config ([4096, 4096, 1000, 1000],) - Epoch [7/70], Validation Loss: 0.2076
+Config ([4096, 4096, 1000, 1000],) - Epoch [8/70], Training Loss: 0.1691
+Config ([4096, 4096, 1000, 1000],) - Epoch [8/70], Validation Loss: 0.1929
+Config ([4096, 4096, 1000, 1000],) - Epoch [9/70], Training Loss: 0.1779
+Config ([4096, 4096, 1000, 1000],) - Epoch [9/70], Validation Loss: 0.2194
+Config ([4096, 4096, 1000, 1000],) - Epoch [10/70], Training Loss: 0.1528
+Config ([4096, 4096, 1000, 1000],) - Epoch [10/70], Validation Loss: 0.1806
+Config ([4096, 4096, 1000, 1000],) - Epoch [11/70], Training Loss: 0.1599
+Config ([4096, 4096, 1000, 1000],) - Epoch [11/70], Validation Loss: 0.3427
+Config ([4096, 4096, 1000, 1000],) - Epoch [12/70], Training Loss: 0.1628
+Config ([4096, 4096, 1000, 1000],) - Epoch [12/70], Validation Loss: 0.3897
+Config ([4096, 4096, 1000, 1000],) - Epoch [13/70], Training Loss: 0.1339
+Config ([4096, 4096, 1000, 1000],) - Epoch [13/70], Validation Loss: 0.3292
+Config ([4096, 4096, 1000, 1000],) - Early stopping after 13 epochs.
+=================================================
+Training with FC layers configuration: [4096, 4096, 1000]
+=================================================
+Config ([4096, 4096, 1000],) - Epoch [1/70], Training Loss: 0.5080
+Config ([4096, 4096, 1000],) - Epoch [1/70], Validation Loss: 0.2119
+Config ([4096, 4096, 1000],) - Epoch [2/70], Training Loss: 0.2799
+Config ([4096, 4096, 1000],) - Epoch [2/70], Validation Loss: 0.2496
+Config ([4096, 4096, 1000],) - Epoch [3/70], Training Loss: 0.2247
+Config ([4096, 4096, 1000],) - Epoch [3/70], Validation Loss: 0.2170
+Config ([4096, 4096, 1000],) - Epoch [4/70], Training Loss: 0.2029
+Config ([4096, 4096, 1000],) - Epoch [4/70], Validation Loss: 0.2555
+Config ([4096, 4096, 1000],) - Early stopping after 4 epochs.
+=================================================
+Training with FC layers configuration: [2048, 1024, 2014, 512, 512, 256, 256]
+=================================================
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [1/70], Training Loss: 1.0557
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [1/70], Validation Loss: 0.6051
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [2/70], Training Loss: 0.4740
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [2/70], Validation Loss: 0.3894
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [3/70], Training Loss: 0.3737
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [3/70], Validation Loss: 0.5521
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [4/70], Training Loss: 0.3218
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [4/70], Validation Loss: 0.2866
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [5/70], Training Loss: 0.3053
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [5/70], Validation Loss: 0.2039
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [6/70], Training Loss: 0.2504
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [6/70], Validation Loss: 0.2808
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [7/70], Training Loss: 0.2415
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [7/70], Validation Loss: 0.2342
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [8/70], Training Loss: 0.2339
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Epoch [8/70], Validation Loss: 0.2942
+Config ([2048, 1024, 2014, 512, 512, 256, 256],) - Early stopping after 8 epochs.
+=================================================
+Best Model Parameters: ([4096, 4096, 1000, 1000],) with Validation Loss: 0.1806
